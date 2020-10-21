@@ -1,0 +1,9 @@
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.Form1.resources
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\M2\Desktop\C# projects\SendMail\SendMail\obj\Debug\SendMail.pdb
